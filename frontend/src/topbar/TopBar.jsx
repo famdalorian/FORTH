@@ -22,7 +22,7 @@ export function Topbar() {
         </ul>
       </div>
       <div className="TopRight">
-       <img src="https://github.com/famdalorian/FORTH/blob/main/frontend/src/Images/Forth-PH.png" alt="" />
+       <img src="https://github.com/famdalorian/FORTH/blob/main/frontend/src/Images/Forth-PH.png" alt="logo4th" />
       </div>
 
 
