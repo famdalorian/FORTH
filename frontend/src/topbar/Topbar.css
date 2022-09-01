@@ -15,3 +15,7 @@
 .TopCenter{
  flex:6; 
 }
+.TopImg{
+    width: 40px;
+    height: 40px;
+}
