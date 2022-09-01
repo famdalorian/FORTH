@@ -6,9 +6,9 @@ export function Topbar() {
   return (
     <div className="TopBar">
       <div className='TopLeft'>
-      <i   class="fa-brands fa-twitter"></i>
-      <i  class="fa-brands fa-instagram"></i>
-      <i  class="fa-brands fa-square-facebook"></i>
+      <i  className="TopIcon fa-brands fa-twitter"></i>
+      <i  className="TopIcon fa-brands fa-instagram"></i>
+      <i  className="TopIcon fa-brands fa-square-facebook"></i>
       </div>
       <div className="topCenter">
         <ul className='TopList'>
@@ -22,9 +22,11 @@ export function Topbar() {
         </ul>
       </div>
       <div className="TopRight">
-       <img src="https://github.com/famdalorian/FORTH/blob/main/frontend/src/Images/Forth-PH.png" alt="logo4th" />
+       <img className="TopImg" src="https://github.com/famdalorian/FORTH/blob/main/frontend/src/Images/Forth-PH.png" alt="logo4th" />
       </div>
+<div className="TopSearchIcon">
 
+</div>
 
     </div>
 
