@@ -12,17 +12,18 @@ export function Topbar() {
       </div>
       <div className="topCenter">
         <ul className='TopList'>
-    <li className='TopListItem'>Home</li>
-    <li className='TopListItem'>About</li>
-    <li className='TopListItem'>Contact</li>
-    <li className='TopListItem'>Write</li>
-    <li className='TopListItem'>Logout</li>
-    <li className='TopListItem'></li>
+    <li className='topListItem'>Home</li>
+    <li className='topListItem'>About</li>
+    <li className='topListItem'>Contact</li>
+    <li className='topListItem'>Write</li>
+    <li className='topListItem'>Logout</li>
+    <li className='topListItem'></li>
 
         </ul>
       </div>
       <div className="TopRight">
-       <img className="TopImg" src="https://github.com/famdalorian/FORTH/blob/main/frontend/src/Images/Forth-PH.png" alt="logo4th" />
+       <img className="TopImg" src="https://github.com/famdalorian/FORTH/blob/main/frontend/src/Images/Forth-PH.png?raw=true" alt="logo4th" />
+       <i className="TopSearchIcon fas fa-search" ></i>
       </div>
 <div className="TopSearchIcon">
 
