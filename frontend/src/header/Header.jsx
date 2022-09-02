@@ -6,10 +6,11 @@ export default function Header() {
 <div className="header">
     <div className="headerTitles">
 
-        <span className='headerTitlesSm'>React & Node</span>
-        <span className='headerTitlesLg'>React & Node</span>
+        <span className='headerTitlesSm'>GO FORTH </span>
+
+        <span className='headerTitlesLg'>BE AWESOME</span>
     </div>
-    <img className='headerImg' src='https://github.com/famdalorian/FORTH/blob/base/frontend/src/Images/forth-bg.png' alt='header-pic'/>
+    <img className='headerImg' src='https://github.com/famdalorian/FORTH/blob/main/frontend/src/Images/forth-bg.png?raw=true' alt='header-pic'/>
 </div>
   )
 }
